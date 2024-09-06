@@ -1,2 +1,2 @@
-# LibraryManagementSysytem
+# LibraryManagementSystem
 Functional library management system.
